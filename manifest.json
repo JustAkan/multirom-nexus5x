@@ -8,33 +8,25 @@
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom-20150815-v32-UNOFFICIAL-matisse.zip",
-						"version": "32",
+						"url": "http://multirom-nexus5x.github.io/multirom-20160218-v33-UNOFFICIAL-bullhead.zip",
+						"version": "33",
 						"type": "multirom",
 						"size": 3931520,
 						"md5": "85fe4f2586081814d5989c38c94256ae"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/TWRP_multirom_matisse_20150815-01.img",
-						"version": "mrom20150815-01",
+						"url": "http://multirom-nexus5x.github.io/jolla_TWRP_bullhead_2016-03-01.img",
+						"version": "mrom20160301-01",
 						"type": "recovery",
 						"size": 9410560,
 						"md5": "7e9a38cf18fdabe95e81d74491f28ceb"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom_uninstaller.zip",
+						"url": "http://multirom-nexus5x.github.io/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1623269,
 						"md5": "1ae1d9ef6b2c744762ffda11d20f05f3"
-					},
-					{
-						"extra": {"releases":["MM"]},
-						"url": "https://basketbuild.com/dl/devs?dl=TheStrix/multirom/armani/LP_kexec_20150925.zip",
-						"version": "6.0.1 MMB29Q(MM)",
-						"md5": "937892468ffd3a4bf7254a8689d017fc",
-						"type": "kernel",
-						"size": 7739560
 					}
 				],
                         "name": "bullhead",
